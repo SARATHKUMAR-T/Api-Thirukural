@@ -1,0 +1,28 @@
+.main {
+  text-align: center;
+  margin-top: 1vh;
+  position: relative;
+}
+.body {
+  background: #283048;
+  background: -webkit-linear-gradient(to right, #859398, #283048);
+  background: linear-gradient(to right, #859398, #283048);
+}
+.b1 {
+  margin-left: 52vh;
+  margin-top: 3vh;
+}
+.m1 {
+  margin-left: 8px;
+}
+#hv1 {
+  font-family: sans-serif, Verdana, Tahoma;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+.row {
+  position: absolute;
+  left: 25em;
+  top: 6em;
+}
